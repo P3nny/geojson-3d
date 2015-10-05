@@ -13,6 +13,8 @@ http://www.stadt-koeln.de/leben-in-koeln/stadtbibliothek/lesen-und-lernen/3-d-dr
 
 Hier kann jeder, der möchte, das Projekt nutzen, um mit den Daten herumzuspielen oder selbst offfene Daten aus Köln oder von anderswo in 3D visualisieren.
 
+![](assets/cgn-3d.gif)
+
 
 -----------------------------------------
 Originale Amsterdam README
