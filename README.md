@@ -1,15 +1,17 @@
 # OK Lab Köln: 3D Daten zum Anfassen #
 
 ## Kölner Daten in 3D ##
-**Wie macht man offene Daten greifbar? Indem man sie ausdruckt. Hier gibt es das Projekt zum Nachmachen.**
+**Wie macht man offene Daten greifbar? Indem man sie ausdruckt. Hier gibt es das Projekt zum Nachmachen:** <br>
+http://p3nny.github.io/geojson-3d/
+<br>
 Im OK Lab Köln haben wir die Idee entwickelt, aus offenen Daten der Stadt Köln "Daten zum Anfassen" zu drucken. Grundlage waren diese Daten zur Altersstruktur der Kölner Stadtteile: <br>
 2014 Einwohner Altersgruppen Stadtteile:
-http://offenedaten-koeln.de/dataset/0936b4df-8b3a-4e9a-9127-cf461f4b5a92/resource/0936b4df-8b3a-4e9a-9127-cf461f4b5a92
+http://offenedaten-koeln.de/dataset/0936b4df-8b3a-4e9a-9127-cf461f4b5a92/resource/0936b4df-8b3a-4e9a-9127-cf461f4b5a92<br>
 Und die Shapefiles der Stadtteile:
-http://offenedaten-koeln.de/dataset/stadtteile
+http://offenedaten-koeln.de/dataset/stadtteile<br>
 Mit Hilfe eines bereits vorhandenen Projekts der Maptime Amsterdam (http://maptime-ams.github.io/geojson-3d/) haben wir die Daten in 3D dargestellt, als 3D .stl Datei heruntergeladen und im September 2015 auf dem 3D-Drucker der Stadtbibliothek Köln ausgedruckt:
-http://www.stadt-koeln.de/leben-in-koeln/stadtbibliothek/lesen-und-lernen/3-d-drucker-und-3-d-scanner
-Nun kann jeder, der möchte, das Projekt nutzen, um mit den Daten herumzuspielen oder selbst offene Daten aus Köln oder von anderswo in 3D zu visualisieren.
+http://www.stadt-koeln.de/leben-in-koeln/stadtbibliothek/lesen-und-lernen/3-d-drucker-und-3-d-scanner<br>
+Nun kann jeder, der möchte, das Projekt nutzen, um mit den Daten herumzuspielen oder selbst offene Daten aus Köln oder von anderswo in 3D zu visualisieren.<br>
 
 ![](assets/cgn-3d.gif)
 
