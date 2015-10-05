@@ -1,7 +1,8 @@
-# OK Lab Köln: 3D Daten zum Anfassen
-Kölner Daten in 3D
-Wie macht man offene Daten greifbar? Indem man sie ausdruckt. Hier gibt es das Projekt zum Nachmachen.
-Im OK Lab Köln haben wir die Idee entwickelt, aus offenen Daten der Stadt Köln "Daten zum Anfassen" zu drucken. Grundlage waren diese Daten zur Altersstruktur der Kölner Stadtteile:
+# OK Lab Köln: 3D Daten zum Anfassen #
+
+## Kölner Daten in 3D ##
+**Wie macht man offene Daten greifbar? Indem man sie ausdruckt. Hier gibt es das Projekt zum Nachmachen.**
+Im OK Lab Köln haben wir die Idee entwickelt, aus offenen Daten der Stadt Köln "Daten zum Anfassen" zu drucken. Grundlage waren diese Daten zur Altersstruktur der Kölner Stadtteile: <br>
 2014 Einwohner Altersgruppen Stadtteile:
 http://offenedaten-koeln.de/dataset/0936b4df-8b3a-4e9a-9127-cf461f4b5a92/resource/0936b4df-8b3a-4e9a-9127-cf461f4b5a92
 Und die Shapefiles der Stadtteile:
