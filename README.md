@@ -1,3 +1,21 @@
+# OK Lab Cologne: 3D Daten zum Anfassen
+Im OK Lab Köln ( http://codefor.de/koeln/ ) haben wir die Idee entwickelt, aus offenen Daten der Stadt Köln "Daten zum Anfassen" zu drucken.
+Grundlage waren Daten diese Daten zur Altersstruktur der Kölner Stadtteile:
+
+    Einwohner nach Altersgruppen / 2014 Einwohner Altersgruppen Stadtteile  http://offenedaten-koeln.de/dataset/0936b4df-8b3a-4e9a-9127-cf461f4b5a92/resource/0936b4df-8b3a-4e9a-9127-cf461f4b5a92
+
+    Und die Shapefiles der Stadtteile:  
+    http://offenedaten-koeln.de/dataset/stadtteile
+
+Mit Hilfe des Maptime Amsterdam Projektes haben wir die Daten in 3D dargestellt, als 3D .stl Datei heruntergeladen und im September 2015 auf dem 3D-Drucker der Stadtbibliothek Köln ausgedrdruckt:
+
+    http://www.stadt-koeln.de/leben-in-koeln/stadtbibliothek/lesen-und-lernen/3-d-drucker-und-3-d-scanner     
+
+Hier kann jeder, der möchte, das Projekt nutzen, um mit den Daten herumzuspielen oder selbst offfene Daten aus Köln oder von anderswo in 3D visualisieren.
+
+
+
+Originale Amsterdam README
 # Maptime Amsterdam #6: GeoJSON 3D!
 
 http://maptime-ams.github.io/geojson-3d/
