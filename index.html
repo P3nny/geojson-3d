@@ -58,7 +58,12 @@
           '}',
         height:
           'function(d) {\n' +
-          '  return (d.uzwei + d.dreibisfuenf + d.sechsbisvierzehn + d.fünfzehnbissiebzehn + d.achtzehnbiszwanzig)*100 / d.EW_insg*10;\n'+
+          '  return (d.uzwei + \n' +
+          '          d.dreibisfuenf + \n' +
+          '          d.sechsbisvierzehn + \n' +
+          '          d.fünfzehnbissiebzehn + \n' +
+          '          d.achtzehnbiszwanzig) \n' +
+          '          *100 / d.EW_insg*10;\n' +
           '}',
         title:
         'function(d) {\n' +
